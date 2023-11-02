@@ -7,5 +7,5 @@
 
 import Foundation
 
-a()
+b()
 
