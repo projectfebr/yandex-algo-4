@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0AD465C8-7EC7-45BE-9CDE-DB43336714C6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2EC1281-07AF-41BD-A54F-4CB74D970CB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "yandex-algo-4/c.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "c()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53C93AAF-496B-4F5E-8E1E-18824EF79AF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "yandex-algo-4/c.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "c()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8DC8A89-12DF-43BF-8F0A-F7B6353B40CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "yandex-algo-4/c.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "c()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F8DC8A89-12DF-43BF-8F0A-F7B6353B40CE - 2643c5e00d546c8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "yandex_algo_4.c() -&gt; ()"
+                  moduleName = "yandex-algo-4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandr/iOS/yandex-algo-4/yandex-algo-4/c.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+               <Location
+                  uuid = "F8DC8A89-12DF-43BF-8F0A-F7B6353B40CE - 2643c5e00d546c8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "yandex_algo_4.c() -&gt; ()"
+                  moduleName = "yandex-algo-4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandr/iOS/yandex-algo-4/yandex-algo-4/c.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1368">
+               </Location>
+               <Location
+                  uuid = "F8DC8A89-12DF-43BF-8F0A-F7B6353B40CE - 2643c5e00d546c8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "yandex_algo_4.c() -&gt; ()"
+                  moduleName = "yandex-algo-4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandr/iOS/yandex-algo-4/yandex-algo-4/c.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1372">
+               </Location>
+               <Location
+                  uuid = "F8DC8A89-12DF-43BF-8F0A-F7B6353B40CE - 2643c5e00d546d21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "yandex_algo_4.c() -&gt; ()"
+                  moduleName = "yandex-algo-4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandr/iOS/yandex-algo-4/yandex-algo-4/c.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+               <Location
+                  uuid = "F8DC8A89-12DF-43BF-8F0A-F7B6353B40CE - 2643c5e00d546d21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "yandex_algo_4.c() -&gt; ()"
+                  moduleName = "yandex-algo-4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandr/iOS/yandex-algo-4/yandex-algo-4/c.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "F8DC8A89-12DF-43BF-8F0A-F7B6353B40CE - 2643c5e00d546d00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "yandex_algo_4.c() -&gt; ()"
+                  moduleName = "yandex-algo-4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandr/iOS/yandex-algo-4/yandex-algo-4/c.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "972">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6939936F-B43C-431D-8DB3-BA6E9A04BB99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "yandex-algo-4/c.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "c()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86A71BFA-F303-430E-AC96-AC339DAB57A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "yandex-algo-4/c.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "c()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "86A71BFA-F303-430E-AC96-AC339DAB57A1 - 2643c5e00d546e7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "yandex_algo_4.c() -&gt; ()"
+                  moduleName = "yandex-algo-4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandr/iOS/yandex-algo-4/yandex-algo-4/c.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "2256">
+               </Location>
+               <Location
+                  uuid = "86A71BFA-F303-430E-AC96-AC339DAB57A1 - 2643c5e00d546e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "yandex_algo_4.c() -&gt; ()"
+                  moduleName = "yandex-algo-4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandr/iOS/yandex-algo-4/yandex-algo-4/c.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1800">
+               </Location>
+               <Location
+                  uuid = "86A71BFA-F303-430E-AC96-AC339DAB57A1 - 2643c5e00d546e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "yandex_algo_4.c() -&gt; ()"
+                  moduleName = "yandex-algo-4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandr/iOS/yandex-algo-4/yandex-algo-4/c.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0A613CC-1DD8-460E-AD94-CE09D5D933BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "yandex-algo-4/c.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "c()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8FEDAB8-1FEC-4DEF-BC48-E007158FA8F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "yandex-algo-4/c.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "c()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
