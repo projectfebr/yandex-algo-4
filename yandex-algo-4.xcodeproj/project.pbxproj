@@ -13,6 +13,7 @@
 		1F16BCDA2AF3D50A00032617 /* c.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F16BCD92AF3D50A00032617 /* c.swift */; };
 		1F16BCDC2AF4306900032617 /* e.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F16BCDB2AF4306900032617 /* e.swift */; };
 		1F16BCDE2AF5039600032617 /* d.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F16BCDD2AF5039600032617 /* d.swift */; };
+		1F16BCE02AF50DE800032617 /* h.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F16BCDF2AF50DE800032617 /* h.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		1F16BCD92AF3D50A00032617 /* c.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = c.swift; sourceTree = "<group>"; };
 		1F16BCDB2AF4306900032617 /* e.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = e.swift; sourceTree = "<group>"; };
 		1F16BCDD2AF5039600032617 /* d.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = d.swift; sourceTree = "<group>"; };
+		1F16BCDF2AF50DE800032617 /* h.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = h.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				1F16BCD92AF3D50A00032617 /* c.swift */,
 				1F16BCDB2AF4306900032617 /* e.swift */,
 				1F16BCDD2AF5039600032617 /* d.swift */,
+				1F16BCDF2AF50DE800032617 /* h.swift */,
 			);
 			path = "yandex-algo-4";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 				1F16BCD82AF3A0AB00032617 /* b.swift in Sources */,
 				1F16BCDA2AF3D50A00032617 /* c.swift in Sources */,
 				1F16BCDC2AF4306900032617 /* e.swift in Sources */,
+				1F16BCE02AF50DE800032617 /* h.swift in Sources */,
 				1F16BCCF2AF2DEAC00032617 /* main.swift in Sources */,
 				1F16BCD62AF2DF1000032617 /* a.swift in Sources */,
 			);
